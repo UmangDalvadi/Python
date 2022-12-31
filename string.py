@@ -1,0 +1,17 @@
+
+st = "umang is dalvadi"
+print(type(st))
+print(len(st))
+print(st[12])
+print(st[0:13])
+print(st.endswith("di"))
+print(st.capitalize())
+print(st.index("d"))
+print(st[0:13])
+print(st[::-1])
+print(st.endswith("vadi"))
+print(st.count("a"))
+print(st.upper())
+print(st.find("dalvadi"))
+print(st.replace("umang","vikash"))
+print(st.center(55))
