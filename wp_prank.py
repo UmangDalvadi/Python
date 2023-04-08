@@ -8,8 +8,7 @@ import time
 
 # apran_khunger
 
-animal = ('chutiya', 'benchod', 'laude', 'madarchod',
-          'motherfuker', 'bahen_ke_laude', 'teri_maa_ki_chut', )
+animal = (  )
 
 time.sleep(10)
 
